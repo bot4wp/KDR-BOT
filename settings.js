@@ -19,9 +19,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
+global.owner = ['917560920774']
+global.premium = ['917560920774']
+global.ownernomer = '917560920774'
 global.ownername = 'KHADHER'
 global.botname = 'KDR-BOT'
 global.footer = '©Kdr-botInc.'
