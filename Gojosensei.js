@@ -3532,7 +3532,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
             }
             break
             case 'sc': case 'script': {
-                reply(`GitHub : NOT RELIESED VRO CONTACT OWNER -KHADHER\n\nINSTAGRAM : ${myweb}\nDont Forget to follow`)
+                reply(`GitHub : ITS PRIVATE BROOO OWNER -KHADHER\n\nINSTAGRAM : ${myweb}\nDont Forget to follow`)
             }
             break
 case 'allmenu': {
