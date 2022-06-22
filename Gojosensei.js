@@ -3546,10 +3546,7 @@ case 'allmenu': {
 ┃╠ ${prefix}owner
 ┃╠ ${prefix}menu
 ┃╠ ${prefix}delete
-┃╠ ${prefix}chatinfo
 ┃╠ ${prefix}quoted
-┃╠ ${prefix}listpc
-┃╠ ${prefix}listgc
 ┃╠ ${prefix}donate
 ┃╠ ${prefix}report [bug]
 ┃╠══✪「 OWNER 」 ☯︎
@@ -3733,6 +3730,7 @@ case 'allmenu': {
 ┃╠══✪「 ISLAMIC 」☯︎
 ┃╠${prefix}juzamma
 ┃╠══✪「 HOROSCOPE 」☯︎
+┃╠📍indo = query📍
 ┃╠${prefix}nomorhoki (indo)
 ┃╠${prefix}artimimpi (indo)
 ┃╠${prefix}artinama (indo)
@@ -3801,10 +3799,7 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 ┃╠ ${prefix}owner
 ┃╠ ${prefix}menu
 ┃╠ ${prefix}delete
-┃╠ ${prefix}chatinfo
 ┃╠ ${prefix}quoted
-┃╠ ${prefix}listpc
-┃╠ ${prefix}listgc
 ┃╠ ${prefix}donate
 ┃╠ ${prefix}report [bug]
 ┃╚═════════════✪
